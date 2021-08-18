@@ -1,0 +1,79 @@
+.resetBtn button {
+    font-weight: 900;
+    font-size: 15px;
+    padding: 5px 15px;
+    border-radius: 15px;
+    background-color: #61dafb;
+    color: darkslateblue;
+}
+
+.resetBtn button:hover {
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.25), 10px 10px 10px rgba(0, 0, 0, 0.22);
+}
+
+.resetBtnOff button {
+    font-weight: 900;
+    font-size: 15px;
+    padding: 5px 15px;
+    border-radius: 15px;
+    background-color: darkgrey;
+    color: darkslateblue;
+
+}
+
+.setBtn button {
+    font-weight: 900;
+    font-size: 15px;
+    padding: 5px 20px;
+    border-radius: 15px;
+    background-color: #61dafb;
+    color: darkslateblue;
+}
+
+.setBtnOffCl button {
+    font-weight: 900;
+    font-size: 15px;
+    padding: 5px 15px;
+    border-radius: 15px;
+    background-color: darkgrey;
+    color: darkslateblue;
+}
+
+
+.incBtn{
+
+}
+
+.incBtn button {
+    font-weight: 900;
+    font-size: 15px;
+    padding: 5px 15px;
+    border-radius: 15px;
+    background-color: #61dafb;
+    color: darkslateblue;
+}
+
+.incBtn button:hover {
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.25), 10px 10px 10px rgba(0, 0, 0, 0.22);
+}
+
+.incBtnOff {
+}
+
+.incBtnOff button {
+    font-weight: 900;
+    font-size: 15px;
+    padding: 5px 15px;
+    border-radius: 15px;
+    background-color: darkgrey;
+    color: darkslateblue;
+}
+
+.newSetBtnClass button{
+    font-weight: 900;
+    font-size: 15px;
+    padding: 5px 15px;
+    border-radius: 15px;
+    background-color: #61dafb;
+    color: darkslateblue;
+}
